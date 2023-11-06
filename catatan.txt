@@ -1,0 +1,13 @@
+###
+1. bagian register full form input sesuai contoh
+   input semua, tapi yang require cuman email dan password
+2. bagian update profile tanpa ubah email dan password
+3. create, bid, decline, accepted (status order)
+4. max bid 5 org
+5. jika sudah pernah dibid gbisa bid lgi
+6. get by id salah belum berdasarkan id
+
+catatan
+1. tawaran bid price tidak boleh lebih dari harga awal
+2. tidak boleh nawar kurang dari 30% dari harga awal
+3. pengecekan untuk update gambar produk klo gada request baru pake data sebelumnya
