@@ -4,7 +4,7 @@
   "description": "final project Binar Academy X MSIB",
   "main": "app/index.js",
   "scripts": {
-    "start": "nodemon bin/www",
+    "start": "node bin/www",
     "test": "jest"
   },
   "author": "Rizki, Chandra and Dendy",
